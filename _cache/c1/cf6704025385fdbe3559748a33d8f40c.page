@@ -1,0 +1,289 @@
+http://123.56.88.241/wiki/index.php
+1491479022
+skin:bootstrap_main_skin
+
+Content-type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html lang="zh-CN"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<base href="http://123.56.88.241/wiki/skins/bootstrap_main_skin/" />
+		<title>首页标题</title>
+					<meta name="generator" content="b2evolution 6.6.9-stable" /> <!-- Please leave this for stats -->
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://123.56.88.241/wiki/index.php?tempskin=_rss2" />
+	<link rel="alternate" type="application/atom+xml" title="Atom" href="http://123.56.88.241/wiki/index.php?tempskin=_atom" />
+			<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://123.56.88.241/wiki/xmlsrv/rsd.php?blog=1" />
+	
+	<!-- headlines: -->
+	<script type="text/javascript" src="http://123.56.88.241/wiki/rsc/js/jquery.min.js?v=6.6.9-stable-2016-05-15"></script>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/font-awesome.min.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript" src="http://123.56.88.241/wiki/rsc/js/bootstrap/bootstrap.min.js?v=6.6.9-stable-2016-05-15"></script>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/bootstrap/bootstrap.min.css?v=6.6.9-stable-2016-05-15" />
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/build/bootstrap-b2evo_base.bmin.css?v=6.6.9-stable-2016-05-15" />
+	<link type="text/css" rel="stylesheet" href="style.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		var b2evo_colorbox_params = {
+						maxWidth: jQuery( window ).width() > 480 ? "95%" : "100%",
+						maxHeight: jQuery( window ).height() > 480 ? "90%" : "100%",
+						slideshow: true,
+						slideshowAuto: false
+					};
+					var b2evo_colorbox_params_post = {current: "图像 当前：{current} 总数： {total}",
+					previous: "前一页",
+					next: "下一页",
+					close: "关闭",
+					openNewWindowText: "打开一个新窗口",
+					slideshowStart: "启动滚动幻灯片",
+					slideshowStop: "停止滚动幻灯片",
+					minWidth: 255};
+					b2evo_colorbox_params_post = jQuery.extend( {}, b2evo_colorbox_params, b2evo_colorbox_params_post );
+					var b2evo_colorbox_params_cmnt = {current: "图像 当前：{current} 总数： {total}",
+					previous: "前一页",
+					next: "下一页",
+					close: "关闭",
+					openNewWindowText: "打开一个新窗口",
+					slideshowStart: "启动滚动幻灯片",
+					slideshowStop: "停止滚动幻灯片",
+					minWidth: 255};
+					b2evo_colorbox_params_cmnt = jQuery.extend( {}, b2evo_colorbox_params, b2evo_colorbox_params_cmnt );
+					var b2evo_colorbox_params_user = {current: "图像 当前：{current} 总数： {total}",
+					previous: "前一页",
+					next: "下一页",
+					close: "关闭",
+					openNewWindowText: "打开一个新窗口",
+					slideshowStart: "启动滚动幻灯片",
+					slideshowStop: "停止滚动幻灯片",
+					minWidth: 255};
+					b2evo_colorbox_params_user = jQuery.extend( {}, b2evo_colorbox_params, b2evo_colorbox_params_user );
+					var b2evo_colorbox_params_other = {current: "图像 当前：{current} 总数： {total}",
+					previous: "前一页",
+					next: "下一页",
+					close: "关闭",
+					openNewWindowText: "打开一个新窗口",
+					slideshowStart: "启动滚动幻灯片",
+					slideshowStop: "停止滚动幻灯片",
+					minWidth: 255};
+					b2evo_colorbox_params = jQuery.extend( {}, b2evo_colorbox_params, b2evo_colorbox_params_other );
+	/* ]]> */
+	</script>
+	<script type="text/javascript" async src="http://123.56.88.241/wiki/rsc/js/build/colorbox.bmin.js?v=6.6.9-stable-2016-05-15"></script>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/colorbox/colorbox.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery( function () { jQuery( '[data-toggle="tooltip"]' ).tooltip() } )
+	/* ]]> */
+	</script>
+	<style type="text/css">
+	<!--
+		@media only screen and (min-width: 641px)
+						{
+							#bg_picture { background-image: url(http://123.56.88.241/wiki/media/shared/global/sunset/sunset.jpg) }
+body.pictured .main_page_wrapper .widget_core_coll_title h1 a { color: #F0F0F0 }
+body.pictured .main_page_wrapper .text-muted { color: #F0F0F0 }
+.front_main_content { background-color: rgba(0,0,0,0.1) }
+body.pictured .front_main_content, body.pictured .front_main_content h1 small, .evo_container__header, .evo_container__page_top { color: #FFFFFF }
+body.pictured .main_page_wrapper .front_main_area a,
+				body.pictured .main_page_wrapper .front_main_area div.widget_core_coll_item_list.evo_noexcerpt.evo_withteaser ul li div.item_content > a,
+				body.pictured .main_page_wrapper .front_main_area div.widget_core_coll_post_list.evo_noexcerpt.evo_withteaser ul li div.item_content > a { color: #FFFFFF }
+body.pictured .front_main_content .ufld_icon_links a:not([class*="ufld__textcolor"]):not(:hover) { color: #CCCCCC }
+body.pictured .front_main_content .ufld_icon_links a:not([class*="ufld__bgcolor"]):not(:hover) { background-color: #FFFFFF }
+body.pictured .front_main_content .ufld_icon_links a:hover:not([class*="ufld__hovertextcolor"]) { color: #FFFFFF }
+body.pictured .front_main_content .ufld_icon_links a:hover:not([class*="ufld__hoverbgcolor"]) { background-color: #CCCCCC }
+div.front_main_area { width: 450px }
+section.secondary_area, .widget_core_org_members { color: #333 !important }
+
+						}
+	-->
+	</style>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/sitewide_style.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript" src="http://123.56.88.241/wiki/rsc/js/ajax.js?v=6.6.9-stable-2016-05-15"></script>
+	<!--[if IE 9 ]>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/ie9.css?v=6.6.9-stable-2016-05-15" />
+	<![endif]-->
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/plugins/wikitables_plugin/wikitables.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript" src="http://123.56.88.241/wiki/rsc/js/flowplayer/flowplayer.min.js?v=6.6.9-stable-2016-05-15"></script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		flowplayer.conf = { flashfit: true, embed: false }
+	/* ]]> */
+	</script>
+	<link type="text/css" rel="stylesheet" href="/wiki/plugins/flowplayer_plugin/skin/minimalist.css?v=6.6.9-stable-2016-05-15" />
+	<style type="text/css">
+	.flowplayer_block {
+	margin: 1em auto 0;
+	background: #000;
+}
+.flowplayer_block .flowplayer {
+	display: block;
+	margin: auto;
+}
+.flowplayer_text {
+	font-size: 84%;
+	text-align: center;
+	margin: 4px 0;
+}
+	</style>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/mediaelement/mediaelementplayer.min.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript" src="http://123.56.88.241/wiki/rsc/js/mediaelement/mediaelement-and-player.min.js?v=6.6.9-stable-2016-05-15"></script>
+	<style type="text/css">
+	video.html5_mediaelementjs_video{ width: 460px !important; height: 320px !important; display: block; margin: auto; }
+.mediajs_block {
+	margin: 0 auto 1em;
+}
+.mediajs_block .mediajs_text {
+	font-size: 84%;
+	text-align: center;
+	margin: 4px 0;
+}
+	</style>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		var html5_mediaelementjs_video_width = parseInt( "460px" );
+			if( jQuery( window ).width() < html5_mediaelementjs_video_width )
+			{
+				html5_mediaelementjs_video_width = jQuery( window ).width();
+			}
+			jQuery( document ).ready( function() {
+				jQuery( "video.html5_mediaelementjs_video" ).mediaelementplayer( {
+					defaultVideoWidth: html5_mediaelementjs_video_width,
+					defaultVideoHeight: "320",
+					videoWidth: html5_mediaelementjs_video_width,
+					videoHeight: "320",
+				} );
+			} );
+	/* ]]> */
+	</script>
+	<link type="text/css" rel="stylesheet" href="http://123.56.88.241/wiki/rsc/css/videojs/video-js.min.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript" src="http://123.56.88.241/wiki/rsc/js/videojs/video.min.js?v=6.6.9-stable-2016-05-15"></script>
+	<style type="text/css">
+	.video-js{ width: 100% !important; max-width: 100% !important; height: 300px !important; margin: auto; }
+.videojs_block {
+	margin: 0 auto 1em;
+}
+.videojs_block .videojs_text {
+	font-size: 84%;
+	text-align: center;
+	margin: 4px 0;
+}
+	</style>
+	<script type="text/javascript" src="/wiki/plugins/widescroll_plugin/jquery.scrollwide.min.js?v=6.6.9-stable-2016-05-15"></script>
+	<link type="text/css" rel="stylesheet" href="/wiki/plugins/widescroll_plugin/jquery.scrollwide.css?v=6.6.9-stable-2016-05-15" />
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		// Paths used by JS functions:
+		var htsrv_url = 'http://123.56.88.241/wiki/htsrv/';
+		var blog_id = '1';
+	/* ]]> */
+	</script>
+
+	</head>
+
+<body class="pictured unknown_device page_cached coll_1 disp_front detail_front item_none anonymous usergroup_none">
+
+
+<div id="skin_wrapper" class="skin_wrapper_anonymous">
+<!-- Start of skin_wrapper -->
+
+<nav class="sitewide_header">
+
+<a href="http://123.56.88.241/wiki/" class="swhead_sitename">This site</a>
+
+<a href="http://123.56.88.241/wiki/index.php/a/" class="swhead_item " title="博客 A 标题">Blog A</a><a href="http://123.56.88.241/wiki/index.php/b/" class="swhead_item " title="博客 B 标题">Blog B</a><a href="http://123.56.88.241/wiki/index.php/photos/" class="swhead_item " title="Photos">Photos</a><a href="http://123.56.88.241/wiki/index.php/forums/" class="swhead_item " title="论坛标题">Forums</a><a href="http://123.56.88.241/wiki/index.php/manual/" class="swhead_item " title="手册标题">Manual</a><a href="http://123.56.88.241/wiki/index.php/title" class="swhead_item ">关于本站</a><a href="http://123.56.88.241/wiki/index.php?disp=msgform&amp;recipient_id=3&amp;redirect_to=http%3A%2F%2F123.56.88.241%2Fwiki%2Findex.php%3Fblog%3D1%26disp%3Dfront" class="swhead_item ">联系方式</a>
+	<div class="floatright">
+	<a href="http://123.56.88.241/wiki/index.php?disp=login&redirect_to=%2Fwiki%2Findex.php%3Fblog%3D1%26disp%3Dfront&return_to=%2Fwiki%2Findex.php%3Fblog%3D1%26disp%3Dfront&source=menu%20link" class="swhead_item ">登录</a><a href="http://123.56.88.241/wiki/index.php?disp=register&amp;source=menu%20link&amp;redirect_to=%2Fwiki%2Findex.php%3Fblog%3D1%26amp%3Bdisp%3Dfront&amp;return_to=%2Fwiki%2Findex.php%3Fblog%3D1%26disp%3Dfront" class="swhead_item_white swhead_item ">注册</a>	</div>
+	<div class="clear"></div>
+</nav>
+<div id="bg_picture"><img src="http://123.56.88.241/wiki/media/shared/global/sunset/sunset.jpg" /></div>
+
+<div class="container main_page_wrapper">
+
+
+<div class="row">
+
+	<div class="col-md-12 front_main_area">
+
+		<main><!-- This is were a link like "Jump to main content" would land -->
+
+		<!-- ================================= START OF MAIN AREA ================================== -->
+
+		<div class="front_main_content">
+		
+		
+		
+		<div class="evo_container evo_container__front_page_primary">
+<div class="evo_widget widget_core_coll_title"><h1><a href="http://123.56.88.241/wiki/index.php">首页标题</a></h1></div><div class="evo_widget widget_core_coll_tagline">按照您的喜好更改它</div><div class="evo_widget widget_core_coll_featured_intro"><div class="evo_content_block">
+<article id="item_11" class="featurepost evo_post__ptyp_1400 evo_post__published" lang="zh-CN">
+
+	<header>
+	
+		</header>
+
+	<section class="evo_post__full"><div class="evo_post__full_text"><p>这是本网站的主页。</p><p>更具体地说，它是该网站的第一个站点的 ”首页”。第一个站点称为 ”家”。其他示例站点也已创建。您可以通过单击在此页顶部的菜单栏中的 ”博客 A“、”博客 B“、”照片“ 等访问它们。</p><p>您可以随意添加站点。如果您不需要也可以删除它们 （包括这个 "家" 的站点）。</p></div></section>
+	
+	<footer>
+
+		
+		<nav class="post_comments_link">
+				</nav>
+	</footer>
+
+	<!-- ===================== START OF FEEDBACK ===================== -->
+
+	</article>
+
+</div></div><div class="evo_widget widget_core_user_links"><div class="ufld_icon_links"><a href="https://twitter.com/b2evolution/" class="ufld_twitter ufld__hoverbgcolor"><span class="fa fa-twitter"></span></a><a href="https://www.facebook.com/b2evolution" class="ufld_facebook ufld__hoverbgcolor"><span class="fa fa-facebook"></span></a><a href="https://plus.google.com/+b2evolution/posts" class="ufld_googleplus ufld__hoverbgcolor"><span class="fa fa-google-plus fa-x-google-plus--nudge"></span></a><a href="https://www.linkedin.com/company/b2evolution-net" class="ufld_linkedin ufld__hoverbgcolor"><span class="fa fa-linkedin fa-x-linkedin--nudge"></span></a><a href="https://github.com/b2evolution/b2evolution" class="ufld_github ufld__hoverbgcolor"><span class="fa fa-github-alt"></span></a></div></div><div class="evo_widget widget_core_coll_post_list evo_nogroup evo_withtitle evo_1pic evo_1pic__special evo_imgsize_crop-80x80 evo_noexcerpt evo_noteaser"><h2>最新文章</h2><ul><li><div class="item_first_image"><a href="http://123.56.88.241/wiki/index.php/a/b2evolution"><img alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/b2evolution_1016x208_wbg.png?root=shared_0&amp;path=logos/b2evolution_1016x208_wbg.png&amp;mtime=1491477489&amp;size=crop-80x80" width="80" height="80" class="loadimg" /></a></div><div class="item_title"><a href="http://123.56.88.241/wiki/index.php/a/b2evolution" class="default">欢迎您来到 b2evolution 网站！</a></div></li><li><div class="item_first_image"><a href="http://123.56.88.241/wiki/index.php/a/title-10"><img alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/monument-valley.jpg?root=shared_0&amp;path=monument-valley/monument-valley.jpg&amp;mtime=1491477489&amp;size=crop-80x80" width="80" height="80" class="loadimg" /></a></div><div class="item_title"><a href="http://123.56.88.241/wiki/index.php/a/title-10" class="default">图片文章</a></div></li><li><div class="item_first_image_placeholder"><a href="http://123.56.88.241/wiki/index.php/a/title-9"></a></div><div class="item_title"><a href="http://123.56.88.241/wiki/index.php/a/title-9" class="default">子文章示例</a></div></li><li><div class="item_first_image_placeholder"><a href="http://123.56.88.241/wiki/index.php/a/title-8"></a></div><div class="item_title"><a href="http://123.56.88.241/wiki/index.php/a/title-8" class="default">自定义字段示例</a></div></li><li><div class="item_first_image"><a href="http://123.56.88.241/wiki/index.php/a/title-7"><img alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/john-ford-point.jpg?root=shared_0&amp;path=monument-valley/john-ford-point.jpg&amp;mtime=1491477489&amp;size=crop-80x80" width="80" height="80" class="loadimg" /></a></div><div class="item_title"><a href="http://123.56.88.241/wiki/index.php/a/title-7" class="default">扩展的文章</a></div></li></ul></div></div>
+
+		</div>
+		</main>
+
+	</div><!-- .col -->
+
+</div><!-- .row -->
+
+</div><!-- .container -->
+
+
+<!-- =================================== START OF SECONDARY AREA =================================== -->
+<section class="secondary_area"><!-- white background -->
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-md-12">
+			<div class="evo_container evo_container__front_page_secondary">
+			<div class="widget widget_core_org_members"><h2 class="page-header">我们的超级团队</h2><div class="row"><div class="evo_org_member col-lg-4 col-md-6 col-sm-6 text-center"><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=1" class="user_link"><img title="" alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/admin.jpg?root=user_1&amp;path=admin.jpg&amp;mtime=1491477489&amp;size=crop-top-200x200" width="200" height="200" class="img-circle img-responsive img-center loadimg" /></a><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=1" class="user_link"><h3 class="evo_user_name">Johnny Admin</h3></a><div class="evo_org_role text-muted"></div><div class="ufld_icon_links"><a href="https://twitter.com/b2evolution/" class="ufld_twitter ufld__hoverbgcolor"><span class="fa fa-twitter"></span></a><a href="https://www.facebook.com/b2evolution" class="ufld_facebook ufld__hoverbgcolor"><span class="fa fa-facebook"></span></a><a href="https://plus.google.com/+b2evolution/posts" class="ufld_googleplus ufld__hoverbgcolor"><span class="fa fa-google-plus fa-x-google-plus--nudge"></span></a><a href="https://www.linkedin.com/company/b2evolution-net" class="ufld_linkedin ufld__hoverbgcolor"><span class="fa fa-linkedin fa-x-linkedin--nudge"></span></a><a href="https://github.com/b2evolution/b2evolution" class="ufld_github ufld__hoverbgcolor"><span class="fa fa-github-alt"></span></a></div><p class="user_field" style="height:3em;-webkit-line-clamp:2">I am the demo administrator of this site. I love having so much power!</p></div><div class="evo_org_member col-lg-4 col-md-6 col-sm-6 text-center"><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=2" class="user_link"><img title="" alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/mary.jpg?root=user_2&amp;path=mary.jpg&amp;mtime=1491477489&amp;size=crop-top-200x200" width="200" height="200" class="img-circle img-responsive img-center loadimg" /></a><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=2" class="user_link"><h3 class="evo_user_name">Mary Wilson</h3></a><div class="evo_org_role text-muted"></div><div class="ufld_icon_links"><a href="https://twitter.com/b2evolution/" class="ufld_twitter ufld__hoverbgcolor"><span class="fa fa-twitter"></span></a><a href="https://www.facebook.com/b2evolution" class="ufld_facebook ufld__hoverbgcolor"><span class="fa fa-facebook"></span></a><a href="https://plus.google.com/+b2evolution/posts" class="ufld_googleplus ufld__hoverbgcolor"><span class="fa fa-google-plus fa-x-google-plus--nudge"></span></a><a href="https://www.linkedin.com/company/b2evolution-net" class="ufld_linkedin ufld__hoverbgcolor"><span class="fa fa-linkedin fa-x-linkedin--nudge"></span></a><a href="https://github.com/b2evolution/b2evolution" class="ufld_github ufld__hoverbgcolor"><span class="fa fa-github-alt"></span></a></div><p class="user_field" style="height:3em;-webkit-line-clamp:2">I am a demo moderator for this site. I love it when things are neat!</p></div><div class="clearfix visible-sm-block visible-md-block"></div><div class="evo_org_member col-lg-4 col-md-6 col-sm-6 text-center"><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=3" class="user_link"><img title="" alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/jay.jpg?root=user_3&amp;path=jay.jpg&amp;mtime=1491477489&amp;size=crop-top-200x200" width="200" height="200" class="img-circle img-responsive img-center loadimg" /></a><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=3" class="user_link"><h3 class="evo_user_name">Jay Parker</h3></a><div class="evo_org_role text-muted"></div><div class="ufld_icon_links"><a href="https://twitter.com/b2evolution/" class="ufld_twitter ufld__hoverbgcolor"><span class="fa fa-twitter"></span></a><a href="https://www.facebook.com/b2evolution" class="ufld_facebook ufld__hoverbgcolor"><span class="fa fa-facebook"></span></a><a href="https://plus.google.com/+b2evolution/posts" class="ufld_googleplus ufld__hoverbgcolor"><span class="fa fa-google-plus fa-x-google-plus--nudge"></span></a><a href="https://www.linkedin.com/company/b2evolution-net" class="ufld_linkedin ufld__hoverbgcolor"><span class="fa fa-linkedin fa-x-linkedin--nudge"></span></a><a href="https://github.com/b2evolution/b2evolution" class="ufld_github ufld__hoverbgcolor"><span class="fa fa-github-alt"></span></a></div><p class="user_field" style="height:3em;-webkit-line-clamp:2">I am a demo moderator for this site. I like to keep things clean!</p></div><div class="clearfix visible-lg-block"></div><div class="evo_org_member col-lg-4 col-md-6 col-sm-6 text-center"><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=4" class="user_link"><img title="" alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/dave.jpg?root=user_4&amp;path=dave.jpg&amp;mtime=1491477489&amp;size=crop-top-200x200" width="200" height="200" class="img-circle img-responsive img-center loadimg" /></a><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=4" class="user_link"><h3 class="evo_user_name">David Miller</h3></a><div class="evo_org_role text-muted"></div><div class="ufld_icon_links"><a href="https://twitter.com/b2evolution/" class="ufld_twitter ufld__hoverbgcolor"><span class="fa fa-twitter"></span></a><a href="https://www.facebook.com/b2evolution" class="ufld_facebook ufld__hoverbgcolor"><span class="fa fa-facebook"></span></a><a href="https://plus.google.com/+b2evolution/posts" class="ufld_googleplus ufld__hoverbgcolor"><span class="fa fa-google-plus fa-x-google-plus--nudge"></span></a><a href="https://www.linkedin.com/company/b2evolution-net" class="ufld_linkedin ufld__hoverbgcolor"><span class="fa fa-linkedin fa-x-linkedin--nudge"></span></a><a href="https://github.com/b2evolution/b2evolution" class="ufld_github ufld__hoverbgcolor"><span class="fa fa-github-alt"></span></a></div><p class="user_field" style="height:3em;-webkit-line-clamp:2">I&apos;m a demo author. I like to write!</p></div><div class="evo_org_member col-lg-4 col-md-6 col-sm-6 text-center"><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=5" class="user_link"><img title="" alt="" src="http://123.56.88.241/wiki/htsrv/getfile.php/paul.jpg?root=user_5&amp;path=paul.jpg&amp;mtime=1491477489&amp;size=crop-top-200x200" width="200" height="200" class="img-circle img-responsive img-center loadimg" /></a><a href="http://123.56.88.241/wiki/index.php?disp=user&amp;user_ID=5" class="user_link"><h3 class="evo_user_name">Paul Jones</h3></a><div class="evo_org_role text-muted"></div><div class="ufld_icon_links"><a href="https://twitter.com/b2evolution/" class="ufld_twitter ufld__hoverbgcolor"><span class="fa fa-twitter"></span></a><a href="https://www.facebook.com/b2evolution" class="ufld_facebook ufld__hoverbgcolor"><span class="fa fa-facebook"></span></a><a href="https://plus.google.com/+b2evolution/posts" class="ufld_googleplus ufld__hoverbgcolor"><span class="fa fa-google-plus fa-x-google-plus--nudge"></span></a><a href="https://www.linkedin.com/company/b2evolution-net" class="ufld_linkedin ufld__hoverbgcolor"><span class="fa fa-linkedin fa-x-linkedin--nudge"></span></a><a href="https://github.com/b2evolution/b2evolution" class="ufld_github ufld__hoverbgcolor"><span class="fa fa-github-alt"></span></a></div><p class="user_field" style="height:3em;-webkit-line-clamp:2">I&apos;m a demo author. I like to think before I write ;)</p></div><div class="clear"></div></div></div>			</div>
+		</div><!-- .col -->
+
+		<footer class="col-md-12 center">
+
+			<div class="evo_container evo_container__footer">
+						</div>
+
+			<p>
+			This collection &copy;2017 by Jay Parker &bull; 
+			<a href="http://123.56.88.241/wiki/index.php?disp=msgform&amp;recipient_id=3&amp;redirect_to=http%3A%2F%2F123.56.88.241%2Fwiki%2Findex.php%3Fblog%3D1%26disp%3Dfront" title="给该博客博主发送一个消息..." class="contact_link">联系方式</a> &bull;  <a href="http://123.56.88.241/wiki/index.php/help" title="" class="help_link">帮助</a> 
+			&bull; <a href="http://b2evolution.net/" target="_blank">Blog software</a>  			</p>
+
+			<div class="powered_by"><a href="http://b2evolution.net/" target="_blank" title="b2evolution CMS"><img src="/wiki/rsc/img/powered-by-b2evolution-120t.gif" alt="Open Source CMS" title="b2evolution CMS" width="120" height="32" border="0" /></a></div>
+		</footer><!-- .col -->
+
+	</div><!-- .row -->
+
+
+</div><!-- .container -->
+
+</section><!-- .secondary_area -->
+
+
+
+<footer class="sitewide_footer">
+	<p>Cookies are required to enable core site functionality. &copy;2017 by <a href="http://123.56.88.241/wiki/">This site</a>.</p>
+</footer>
+<!-- End of skin_wrapper -->
+</div>
+
+</body>
+</html>
